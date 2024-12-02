@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bigPadding">20dp</dimen>
+    <dimen name="ImageWidth">200dp</dimen>
+    <dimen name="ImageHeight">100dp</dimen>
+</resources>

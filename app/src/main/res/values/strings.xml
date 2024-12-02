@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">16_13_DaggerHilt</string>
+    <string name="exit">Выход</string>
 </resources>
